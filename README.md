@@ -1,7 +1,8 @@
 # WebSound
 ####The Web Platform is the Universal Instrument.
 
-WebSound is an iterative solution to the ['death of people's music'](https://blog.andyet.com/2014/02/26/Pete-Seeger-lessons-learned-from-a-hard-link-to-the-old-world) problem, driven by long-term community engagement and Web Audio/MIDI tool versioning. 
+WebSound is an iterative solution to the ['death of people's music'](https://blog.andyet.com/2014/02/26/Pete-Seeger-lessons-learned-from-a-hard-link-to-the-old-world) problem, driven by long-term community engagement and Web Audio/MIDI tool versioning.
+* **Blog tl;dr** – Recording technology and the commercial music industry have homogenized and destroyed indigenous folk music collaboration and expressions throughout Western Civilization. Pete Seeger and a handful of others were a valuable bridge to understanding our now non-existent forms of community music and how they can flourish in a post-commercial culture. Web Platform technologies are opening the potential of building common collaborative interfaces and services which can be used as a bridge away from commercial music culture–back to 'indigenous' music making experiences in a globalized context.
 
 ####Tools 
 WebSound tooling will take 3 fundamental divisions of development over time as the specifications and APIs it relies on are further built and integrated until they are stable enough to ship cross-platform for public use:
