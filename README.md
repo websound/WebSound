@@ -1,4 +1,9 @@
 # WebSound
+
+## Purpose
+The purpose of this repository is to publish & maintain WebSound project definitions, goals, legal information, and discuss upcoming events.
+
+## Project Description
 ####The Web Platform is the Universal Instrument.
 
 WebSound is an iterative solution to the ['death of people's music'](https://blog.andyet.com/2014/02/26/Pete-Seeger-lessons-learned-from-a-hard-link-to-the-old-world) problem, driven by long-term community engagement and Web Audio/MIDI tool versioning.
